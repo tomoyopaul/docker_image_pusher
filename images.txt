@@ -1,2 +1,3 @@
-xiaoya-alist
-
+nyanmisaka/jellyfin:latest
+helloz/onenav:latest
+xiaoyaliu/alist:latest

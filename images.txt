@@ -1,3 +1,7 @@
-nyanmisaka/jellyfin:latest
-helloz/onenav:latest
-xiaoyaliu/alist:latest
+hslr/sun-panel:latest
+p3terx/ariang:latest
+p3terx/aria2-pro:latest
+oldiy/transmission-twc:latest
+6053537/portainer-ce:latest
+tailscale/tailscale:latest
+haroldli/xiaoya-tvbox:latest
